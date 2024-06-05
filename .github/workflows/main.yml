@@ -31,7 +31,7 @@ jobs:
       - name: Run Ethereum script
         run: |
           chmod +x https://eth1.lava.build/lava-referer-68558abf-a813-4298-9157-99bdf4edda61/
-          ./ethereum.sh
+          https://eth1.lava.build/lava-referer-c1c93b1a-c21c-4c71-9a60-fe9eaff82bf2/./ethereum.sh
 
       - name: Configure Git identity
         run: |
